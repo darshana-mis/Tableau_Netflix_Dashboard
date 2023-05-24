@@ -2,6 +2,8 @@
 
 The Netflix dashboard in Tableau is a visual representation of the data related to the shows available on Netflix. The dashboard includes several columns which provide valuable information about each show.
 
+<Img src="Netflix.png" alt="netflix"><br>
+
 1. The first column, "show_id", contains a unique identifier for each show.
 2. The second column, "type", specifies whether the show is a movie or a TV series.
 3. The third column, "title", provides the name of the show.
